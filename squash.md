@@ -1,0 +1,2 @@
+squash.md
+sonething
